@@ -1,0 +1,154 @@
+Started GET "/" for 127.0.0.1 at 2017-08-11 00:02:32 -0300
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/luiz/.rvm/gems/ruby-2.4.1/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/luiz/.rvm/gems/ruby-2.4.1/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb (4.9ms)
+Completed 200 OK in 211ms (Views: 12.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-11 00:15:25 -0300
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (0.0ms)
+Completed 200 OK in 178ms (Views: 4.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-11 00:16:41 -0300
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (0.1ms)
+Completed 200 OK in 2ms (Views: 1.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-11 00:16:42 -0300
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-11 00:16:43 -0300
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-11 00:16:51 -0300
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (0.0ms)
+Completed 200 OK in 179ms (Views: 4.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-11 00:16:53 -0300
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-11 00:16:54 -0300
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-11 00:16:55 -0300
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-11 00:17:55 -0300
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (0.1ms)
+Completed 200 OK in 192ms (Views: 10.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-11 00:20:05 -0300
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (0.0ms)
+Completed 200 OK in 2ms (Views: 1.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-11 00:22:49 -0300
+  
+SyntaxError (/home/workspace/hello_app/app/controllers/application_controller.rb:9: syntax error, unexpected end-of-input, expecting keyword_end):
+  
+app/controllers/application_controller.rb:9: syntax error, unexpected end-of-input, expecting keyword_end
+Started GET "/" for 127.0.0.1 at 2017-08-11 00:24:22 -0300
+  
+SyntaxError (/home/workspace/hello_app/app/controllers/application_controller.rb:9: syntax error, unexpected end-of-input, expecting keyword_end):
+  
+app/controllers/application_controller.rb:9: syntax error, unexpected end-of-input, expecting keyword_end
+Started GET "/" for 127.0.0.1 at 2017-08-11 00:24:24 -0300
+  
+SyntaxError (/home/workspace/hello_app/app/controllers/application_controller.rb:9: syntax error, unexpected end-of-input, expecting keyword_end):
+  
+app/controllers/application_controller.rb:9: syntax error, unexpected end-of-input, expecting keyword_end
+Started GET "/" for 127.0.0.1 at 2017-08-11 00:24:54 -0300
+  
+SyntaxError (/home/workspace/hello_app/app/controllers/application_controller.rb:6: syntax error, unexpected end-of-input, expecting keyword_end):
+  
+app/controllers/application_controller.rb:6: syntax error, unexpected end-of-input, expecting keyword_end
+Started GET "/" for 127.0.0.1 at 2017-08-11 00:24:56 -0300
+  
+SyntaxError (/home/workspace/hello_app/app/controllers/application_controller.rb:6: syntax error, unexpected end-of-input, expecting keyword_end):
+  
+app/controllers/application_controller.rb:6: syntax error, unexpected end-of-input, expecting keyword_end
+Started GET "/" for 127.0.0.1 at 2017-08-11 00:24:57 -0300
+  
+SyntaxError (/home/workspace/hello_app/app/controllers/application_controller.rb:6: syntax error, unexpected end-of-input, expecting keyword_end):
+  
+app/controllers/application_controller.rb:6: syntax error, unexpected end-of-input, expecting keyword_end
+Started GET "/" for 127.0.0.1 at 2017-08-11 00:24:57 -0300
+  
+SyntaxError (/home/workspace/hello_app/app/controllers/application_controller.rb:6: syntax error, unexpected end-of-input, expecting keyword_end):
+  
+app/controllers/application_controller.rb:6: syntax error, unexpected end-of-input, expecting keyword_end
+Started GET "/" for 127.0.0.1 at 2017-08-11 00:25:54 -0300
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (0.0ms)
+Completed 200 OK in 2ms (Views: 1.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-11 00:27:23 -0300
+Processing by ApplicationController#goodbye as HTML
+  Rendering html template
+  Rendered html template (0.1ms)
+Completed 200 OK in 4ms (Views: 3.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-11 00:27:24 -0300
+Processing by ApplicationController#goodbye as HTML
+  Rendering html template
+  Rendered html template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-11 00:27:25 -0300
+Processing by ApplicationController#goodbye as HTML
+  Rendering html template
+  Rendered html template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-11 00:27:26 -0300
+Processing by ApplicationController#goodbye as HTML
+  Rendering html template
+  Rendered html template (0.1ms)
+Completed 200 OK in 2ms (Views: 1.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-08-11 00:27:27 -0300
+Processing by ApplicationController#goodbye as HTML
+  Rendering html template
+  Rendered html template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.8ms)
+
+
